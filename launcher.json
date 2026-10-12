@@ -1,6 +1,5 @@
 {
   "_readme": "Zarix Launcher configuration. Every launcher reads this file at boot and every ~3 minutes. Field reference: docs/zarix-backend.md in the launcher repository.",
-  "launcherVer": 10070,
   "launcherUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/v1.0.70/ZarixLauncher.exe",
   "launcherName": "Zarix Launcher",
   "themeColor": "#ffffff",
@@ -71,9 +70,7 @@
         }
       ],
       "videoUrls": [],
-      "clientUrl": "http://168.222.20.98/CareerLauncher_API/game_base.zip",
-      "clientVer": 1,
-      "enbBaseUrl": "http://168.222.20.98/CareerLauncher_API/enb/",
+      "enbBaseUrl": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb/",
       "enbFiles": [
         {
           "fileName": "enbeffect.fx",
@@ -96,7 +93,8 @@
       "maintenance": false,
       "manifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-Career-City-Career-City-20261012T231526Z/manifest.json",
       "manifestId": "c7256dbcf9901185ab8c310e8cafecffe300d1eef2c488f68ab2d213e628da7f",
-      "manifestSha256": "59d0983986ff9a7a8ef0935f4ce32b60b573c63df41855b5a23cfe8da79ceb1d"
+      "manifestSha256": "59d0983986ff9a7a8ef0935f4ce32b60b573c63df41855b5a23cfe8da79ceb1d",
+      "installSize": 1147256443
     }
   ],
   "news": [],
