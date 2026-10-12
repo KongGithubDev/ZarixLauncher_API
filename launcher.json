@@ -3,7 +3,7 @@
   "launcherSha256": "544b0b850e4ab36cbb9f4480c00068e5b73005942bae1e982b3a99256a5b28f3",
   "launcherName": "Zarix Launcher",
   "themeColor": "#ffffff",
-  "discordUrl": "https://gta-career.com/?discord=careercity",
+  "discordUrl": "https://dsc.gg/careercity",
   "facebookUrl": "https://www.facebook.com/GTACareerRP",
   "discord": {
     "clientId": "1309768728082251787",
@@ -28,7 +28,7 @@
       },
       {
         "label": "Discord",
-        "url": "https://gta-career.com/?discord=careercity"
+        "url": "https://dsc.gg/careercity"
       }
     ]
   },
