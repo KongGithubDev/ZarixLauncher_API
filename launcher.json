@@ -1,0 +1,103 @@
+{
+  "_readme": "Zarix Launcher configuration. Every launcher reads this file at boot and every ~3 minutes. Field reference: docs/zarix-backend.md in the launcher repository.",
+  "launcherVer": 10068,
+  "launcherUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/v1.0.68/ZarixLauncher.exe",
+  "launcherName": "Zarix Launcher",
+  "themeColor": "#ffffff",
+  "registryPath": "HKCU\\Software\\SAMP",
+  "discordUrl": "https://gta-career.com/?discord=careercity",
+  "facebookUrl": "https://www.facebook.com/GTACareerRP",
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "until": null
+  },
+  "announcements": [],
+  "languages": [
+    {
+      "language": "en",
+      "displayName": "English"
+    },
+    {
+      "language": "th",
+      "displayName": "ไทย"
+    }
+  ],
+  "discord": {
+    "clientId": "1309768728082251787",
+    "details": "Main Menu",
+    "state": "Career Launcher",
+    "largeImageKey": "main",
+    "largeImageText": "Career Server",
+    "smallImageKey": "kongproject",
+    "smallImageText": "KongProject",
+    "detailsPlaying": "Playing on {gameName}",
+    "statePlaying": "Character: {playerName}",
+    "largeImageTextPlaying": "In Game",
+    "detailsDownloading": "Updating {gameName}",
+    "stateDownloading": "Downloading files...",
+    "largeImageTextDownloading": "Patching...",
+    "detailsMenus": "In the menus",
+    "stateMenus": "Launcher Main Screen",
+    "buttons": [
+      {
+        "label": "CareerTeam",
+        "url": "https://gta-career.com/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://gta-career.com/?discord=careercity"
+      }
+    ]
+  },
+  "servers": [
+    {
+      "name": "Career City",
+      "logo": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/logo.jpg",
+      "themeColor": "#6fb6f6",
+      "serverIp": "168.222.20.95",
+      "serverPort": 7777,
+      "startCmd": "samp.exe 168.222.20.95:7777",
+      "uiBundleUrl": "http://168.222.20.95:3080/kpui/career/",
+      "banners": [
+        {
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cover.jpg",
+          "title": "Career Roleplay",
+          "description": "เข้าร่วมเล่นได้แล้ววันนี้"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/gameplay.jpg",
+          "title": "Career City"
+        }
+      ],
+      "videoUrls": [],
+      "clientUrl": "http://168.222.20.98/CareerLauncher_API/game_base.zip",
+      "clientVer": 1,
+      "enbBaseUrl": "http://168.222.20.98/CareerLauncher_API/enb/",
+      "enbFiles": [
+        {
+          "fileName": "enbeffect.fx",
+          "sha256": "26f549bfd4dee4356526a45ae3a1ed1bddb9ee98fb2cd1afbc57a8a70d94203c"
+        },
+        {
+          "fileName": "enblocal.ini",
+          "sha256": "0e4389cef719eb8cef27312bb0f8dac22e5648fc7462231f8cc5a15531709242"
+        },
+        {
+          "fileName": "enbseries.asi",
+          "sha256": "a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1"
+        },
+        {
+          "fileName": "enbseries.ini",
+          "sha256": "1f553bfbe8ff3bdd4f0acb6fb0481086620a1a6d8d91fe77471aa02c316ea9c4"
+        }
+      ],
+      "removeFiles": [],
+      "maintenance": false,
+      "manifestUrl": "https://github.com/KongGithubDev/KPLauncher_API/releases/download/depot-Career-Career-City-20260925T200153Z/manifest.json",
+      "manifestId": "2eb53408768d0c2e6570d18dc0e55d5d86b3f385daf10f03ddbf0d9a955df00f",
+      "manifestSha256": "edb784bf7a3902fca6388b06d853c8947aa4a22ad4b23b348e1fc71a3ab4bc99"
+    }
+  ],
+  "news": []
+}
