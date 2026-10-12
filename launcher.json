@@ -1,7 +1,7 @@
 {
   "_readme": "Zarix Launcher configuration. Every launcher reads this file at boot and every ~3 minutes. Field reference: docs/zarix-backend.md in the launcher repository.",
-  "launcherVer": 10069,
-  "launcherUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/v1.0.69/ZarixLauncher.exe",
+  "launcherVer": 10070,
+  "launcherUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/v1.0.70/ZarixLauncher.exe",
   "launcherName": "Zarix Launcher",
   "themeColor": "#ffffff",
   "registryPath": "HKCU\\Software\\SAMP",
@@ -100,5 +100,5 @@
     }
   ],
   "news": [],
-  "launcherSha256": "6630341e3459536465954a759a0966aedb775cad99dea6b0e39d219acb2fa9a4"
+  "launcherSha256": "c218bae055004636cc54573fd23e11120d567c85e483d359ea27f1e2d2bdcd2f"
 }
