@@ -41,6 +41,7 @@
       "serverPort": 7777,
       "startCmd": "samp.exe 168.222.20.95:7777",
       "uiBundleUrl": "http://168.222.20.95:3080/kpui/career/",
+      "modelKeyServer": "http://168.222.20.95:37777",
       "banners": [
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cover.jpg",
