@@ -46,7 +46,7 @@
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cover.jpg",
           "title": "Career Roleplay",
-          "description": "เข้าร่วมเล่นได้แล้ววันนี้"
+          "description": "CLOSED BETA TEST 21 – 25 ต.ค. 2569 · PC และ Android"
         },
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/gameplay.jpg",
@@ -82,7 +82,20 @@
       "mobileInstallSize": 532861780,
       "mobileApkVersion": 184,
       "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-184/CareerCity.apk",
-      "mobileApkSha256": "4c4415c30f737189b44aa7045bc084f73b80eb0af2d4e93f2225312083f33719"
+      "mobileApkSha256": "4c4415c30f737189b44aa7045bc084f73b80eb0af2d4e93f2225312083f33719",
+      "news": [
+        {
+          "id": "career-cbt-2569",
+          "title": "ประกาศเปิด CLOSED BETA TEST",
+          "category": "event",
+          "date": "2026-10-21",
+          "endDate": "2026-10-25T23:59:59+07:00",
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cover.jpg",
+          "body": "สิ้นสุดการรอคอย! ทีมงานขอประกาศเปิด GTA CAREER CITY อย่างเป็นทางการในรอบ CLOSED BETA TEST\nให้ผู้เล่นทุกคนได้เข้ามาสัมผัสประสบการณ์และทดสอบระบบต่าง ๆ ภายในเมืองพร้อมกัน\n\n🗓️ ระยะเวลา: 21 – 25 ตุลาคม 2569\n🎮 แพลตฟอร์ม: PC และ Android\n\n⚠️ ช่วง CLOSED BETA TEST อาจมีการปรับปรุงระบบและแก้ไข Bug\nพบปัญหาในการเล่น ส่ง Feedback ถึงทีมงานได้ที่ช่อง 💬︱ความคิดเห็น ใน Discord\n\nSee you soon! 💜🩵",
+          "url": "https://www.facebook.com/GTACareerRP/posts/pfbid0yQhVwss2RK7mhAzqfSFCq38Gm5WwZy5oHG22oEmqNLsFFujHNdoS4Z7dHPFaN5bel",
+          "featured": true
+        }
+      ]
     }
   ]
 }
