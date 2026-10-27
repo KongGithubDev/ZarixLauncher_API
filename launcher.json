@@ -95,7 +95,10 @@
           "url": "https://www.facebook.com/GTACareerRP/posts/pfbid0yQhVwss2RK7mhAzqfSFCq38Gm5WwZy5oHG22oEmqNLsFFujHNdoS4Z7dHPFaN5bel",
           "featured": true
         }
-      ]
+      ],
+      "mobileIpaUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fios.gta-career.com%2Fmanifest%2Flatest.plist",
+      "mobileIpaPage": "https://ios.gta-career.com/",
+      "mobileIpaVersion": 2610270421
     }
   ]
 }
