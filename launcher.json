@@ -80,9 +80,9 @@
       "mobileManifestId": "8ba8dd188bfb56e50d7a45bc5d4f564697d61f285f8cd3f7c578c8b3f30d0e15",
       "mobileManifestSha256": "ce2fa11cb2f5131f80caae438afcdc3521cffd0649b7c14d8f8ca0272a9390c9",
       "mobileInstallSize": 1378282337,
-      "mobileApkVersion": 224,
-      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-224/CareerCity.apk",
-      "mobileApkSha256": "43f373130ee8b727645e052362592bd3999f136721141a676eab901d81e86d93",
+      "mobileApkVersion": 225,
+      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-225/CareerCity.apk",
+      "mobileApkSha256": "ec9bda3c21a14b9bb1c517cded8446f70bd334429aa65e5d188b1ead722d94a6",
       "news": [
         {
           "id": "career-cbt-open-2569-10-31",
