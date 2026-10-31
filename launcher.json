@@ -46,7 +46,7 @@
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/open-server-2569.jpg",
           "title": "Career Roleplay",
-          "description": "CLOSED BETA TEST · เปิด 31 ต.ค. 2569 20:00 น. · PC และ Android"
+          "description": "OPEN SERVER · เปิดให้บริการ 1 พ.ย. 2569 · PC, Android และ iOS"
         },
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/gameplay.jpg",
@@ -85,14 +85,24 @@
       "mobileApkSha256": "ec9bda3c21a14b9bb1c517cded8446f70bd334429aa65e5d188b1ead722d94a6",
       "news": [
         {
+          "id": "career-open-2569-11-01",
+          "title": "เปิดให้บริการ GTA CAREER CITY 1 พ.ย. 2569",
+          "category": "event",
+          "date": "2026-11-01",
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/open-server-2569.jpg",
+          "body": "GTA CAREER CITY เปิดให้บริการแล้ววันนี้!\n\n🗓️ เปิด: 1 พฤศจิกายน 2569\n🎮 แพลตฟอร์ม: PC, Android และ iOS\n🍎 iOS: ติดตั้งได้ที่ ios.gta-career.com\n\n📝 ขอ Whitelist ผ่านบอทใน Discord\n\nพบปัญหาในการเล่น เปิด Ticket ใน Discord ได้เลย\n\nSee you in the city! 💜🩵",
+          "url": "https://dsc.gg/careercity",
+          "featured": true
+        },
+        {
           "id": "career-cbt-open-2569-10-31",
           "title": "เปิดให้บริการ CLOSED BETA TEST 31 ต.ค. 2569 · 20:00 น.",
           "category": "event",
           "date": "2026-10-31",
-          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/open-server-2569.jpg",
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cbt-open-2569-10-31.png",
           "body": "GTA CAREER CITY เปิดให้บริการรอบ CLOSED BETA TEST แล้ว!\n\n🗓️ เปิด: 31 ตุลาคม 2569 เวลา 20:00 น.\n🎮 แพลตฟอร์ม: PC และ Android\n🍎 iOS: ดาวน์โหลด IPA ได้ที่ ios.gta-career.com\n\n📝 ขอ Whitelist ผ่านบอทใน Discord\n\n⚠️ ช่วง CLOSED BETA TEST อาจมีการปรับปรุงระบบและแก้ไข Bug\nพบปัญหาในการเล่น ส่ง Feedback ถึงทีมงานได้ที่ช่อง 💬︱ความคิดเห็น ใน Discord\n\nSee you soon! 💜🩵",
           "url": "https://dsc.gg/careercity",
-          "featured": true
+          "featured": false
         },
         {
           "id": "career-cbt-2569",
