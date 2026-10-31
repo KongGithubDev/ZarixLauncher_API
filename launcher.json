@@ -44,9 +44,9 @@
       "modelKeyServer": "http://168.222.20.95:37777",
       "banners": [
         {
-          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cover.jpg",
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cbt-open-2569-10-31.png",
           "title": "Career Roleplay",
-          "description": "CLOSED BETA TEST 21 – 25 ต.ค. 2569 · PC และ Android"
+          "description": "CLOSED BETA TEST · เปิด 31 ต.ค. 2569 20:00 น. · PC และ Android"
         },
         {
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/gameplay.jpg",
@@ -85,6 +85,16 @@
       "mobileApkSha256": "03b1d254cab3d22e4c3e4914a2b74b92776b30436f42ddc0888e4e6b54efbb83",
       "news": [
         {
+          "id": "career-cbt-open-2569-10-31",
+          "title": "เปิดให้บริการ CLOSED BETA TEST 31 ต.ค. 2569 · 20:00 น.",
+          "category": "event",
+          "date": "2026-10-31",
+          "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cbt-open-2569-10-31.png",
+          "body": "GTA CAREER CITY เปิดให้บริการรอบ CLOSED BETA TEST แล้ว!\n\n🗓️ เปิด: 31 ตุลาคม 2569 เวลา 20:00 น.\n🎮 แพลตฟอร์ม: PC และ Android\n🍎 iOS: ดาวน์โหลด IPA ได้ที่ ios.gta-career.com\n\n📝 ขอ Whitelist ผ่านบอทใน Discord\n\n⚠️ ช่วง CLOSED BETA TEST อาจมีการปรับปรุงระบบและแก้ไข Bug\nพบปัญหาในการเล่น ส่ง Feedback ถึงทีมงานได้ที่ช่อง 💬︱ความคิดเห็น ใน Discord\n\nSee you soon! 💜🩵",
+          "url": "https://dsc.gg/careercity",
+          "featured": true
+        },
+        {
           "id": "career-cbt-2569",
           "title": "ประกาศเปิด CLOSED BETA TEST",
           "category": "event",
@@ -93,7 +103,7 @@
           "image": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/cbt-2569.jpg",
           "body": "สิ้นสุดการรอคอย! ทีมงานขอประกาศเปิด GTA CAREER CITY อย่างเป็นทางการในรอบ CLOSED BETA TEST\nให้ผู้เล่นทุกคนได้เข้ามาสัมผัสประสบการณ์และทดสอบระบบต่าง ๆ ภายในเมืองพร้อมกัน\n\n🗓️ ระยะเวลา: 21 – 25 ตุลาคม 2569\n🎮 แพลตฟอร์ม: PC และ Android\n\n⚠️ ช่วง CLOSED BETA TEST อาจมีการปรับปรุงระบบและแก้ไข Bug\nพบปัญหาในการเล่น ส่ง Feedback ถึงทีมงานได้ที่ช่อง 💬︱ความคิดเห็น ใน Discord\n\nSee you soon! 💜🩵",
           "url": "https://www.facebook.com/GTACareerRP/posts/pfbid0yQhVwss2RK7mhAzqfSFCq38Gm5WwZy5oHG22oEmqNLsFFujHNdoS4Z7dHPFaN5bel",
-          "featured": true
+          "featured": false
         }
       ],
       "mobileIpaUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fios.gta-career.com%2Fmanifest%2Flatest.plist",
