@@ -76,10 +76,10 @@
           "sha256": "1f553bfbe8ff3bdd4f0acb6fb0481086620a1a6d8d91fe77471aa02c316ea9c4"
         }
       ],
-      "manifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-Career-City-Career-City-20261107T031834Z/manifest.json",
-      "manifestId": "c380535e54348f3d87595364bafaa63b95a5466597cdbb8e8660c914ebfd4763",
-      "manifestSha256": "6cd07cfddc00c5a50bac29bf873e5fb9e8049e217254182f764e9d6ce1646820",
-      "installSize": 1554590357,
+      "manifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-Career-City-Career-City-20261107T043528Z/manifest.json",
+      "manifestId": "af0d641b3e8990df5ffb744fa67e3c966557e2cb6f050ca3bcc5a9b70756423d",
+      "manifestSha256": "2c26dc21649ecc480f8224e768130fd2970adb66aee650be8147c5f5a8c1bb9c",
+      "installSize": 1554591017,
       "mobileManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-mobile-Career-City-20261106T145009Z/manifest.json",
       "mobileManifestId": "d6779b4f9d7b09a6419af9de76869b38432a52d3324c9ca31755eabde1a391e2",
       "mobileManifestSha256": "17eda17b21c9b8f6087034df1bf06993e92001a2dc39d1dcff3519db4b378263",
