@@ -80,10 +80,10 @@
       "manifestId": "7daa46f61c77929d6497fd80783d0e14b6fa59762d18af75fe7178ab811890e5",
       "manifestSha256": "fdf967292896426fc04e34d5f2dcc33ecd2b7be55ba8a36385a68e4364522e3f",
       "installSize": 1602961341,
-      "mobileManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-mobile-Career-City-20261113T180850Z/manifest.json",
-      "mobileManifestId": "4769afd69b475f09fca4eb9b3e912d8cbe155f99063714c2542295eae73d5420",
-      "mobileManifestSha256": "390c22dc5c448d7fffdfa0ad4b8ffdb432b92c37cc6dba544335a22e7b218e43",
-      "mobileInstallSize": 622851587,
+      "mobileManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-mobile-Career-City-20261113T190158Z/manifest.json",
+      "mobileManifestId": "1115d4b7473cadcdc2e1d5d5c1e131378d6ccc14b368fc672094fb92524a08ad",
+      "mobileManifestSha256": "68983254210e01573cfe98da2d5f869582e01bad4e29d330a9f0c643b35181be",
+      "mobileInstallSize": 622851603,
       "mobileApkVersion": 343,
       "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-343/CareerCity.apk",
       "mobileApkSha256": "4fd6feafe43773bf7c41c5be84eb5a1b2f8937d95a2fb6fa1553d2895a60605e",
@@ -107,7 +107,7 @@
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611122219,
-      "mobileSig": "kps1:cc1:lJYNr7LNzdVL0JwjkDW/xoBUibMf6g+vpUdAhPGrR/2LAujlMCqJSmxxC41lE3NgmRdOlfnmN9R+cFGiuVbECw=="
+      "mobileSig": "kps1:cc1:Glzr54jFyojHeU0RwiLyr/GcfKwMxpm8UOi7lPyoAB+3gHGY1HH7bIGhqBmDCnTj8RtDYptbBV8OT7VJ+DDOAg=="
     }
   ]
 }
