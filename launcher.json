@@ -87,6 +87,293 @@
       "mobileApkVersion": 345,
       "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-345/CareerCity.apk",
       "mobileApkSha256": "1f8e7e93e73c104d1f302f6366be75405a5be36cef6ba4aaedcf771c4eced756",
+      "addons": [
+        {
+          "id": "career-enb",
+          "name": "ENB Career City",
+          "description": "ENB ชุดทางการของ Career City แสง เงา และสีแบบภาพยนตร์ ใช้ enbseries.asi รุ่นที่ระบบกันโกงรองรับเท่านั้น\nถ้าเปิด ENB ในเมนูเกม (ฟันเฟือง) อยู่ ให้ปิดก่อนติดตั้ง",
+          "author": "Career City",
+          "category": "graphics",
+          "version": "2026.11.1",
+          "images": [
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-open-2611b.jpg",
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-market-2611.jpg",
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-focus-2611.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini"
+          ],
+          "download": {
+            "type": "files",
+            "files": [
+              {
+                "path": "enbeffect.fx",
+                "url": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb/enbeffect.fx",
+                "sha256": "26f549bfd4dee4356526a45ae3a1ed1bddb9ee98fb2cd1afbc57a8a70d94203c",
+                "size": 195820
+              },
+              {
+                "path": "enblocal.ini",
+                "url": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb/enblocal.ini",
+                "sha256": "0e4389cef719eb8cef27312bb0f8dac22e5648fc7462231f8cc5a15531709242",
+                "size": 630
+              },
+              {
+                "path": "enbseries.asi",
+                "url": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb/enbseries.asi",
+                "sha256": "a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1",
+                "size": 771584
+              },
+              {
+                "path": "enbseries.ini",
+                "url": "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb/enbseries.ini",
+                "sha256": "1f553bfbe8ff3bdd4f0acb6fb0481086620a1a6d8d91fe77471aa02c316ea9c4",
+                "size": 2748
+              }
+            ]
+          }
+        },
+        {
+          "id": "enb-shader430",
+          "name": "Shader ENBSeries 430",
+          "description": "ENB v0.430 ของ AngelShaw โทนสีอบอุ่นแบบภาพยนตร์ เงา น้ำ และแสงสะท้อนรถใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186043-shader-enbseries-430-angel-shaw-enb-preset",
+          "author": "AngelShaw",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shader430-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shader430-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shader430-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 10061614,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shader430-1.0.0.zip",
+            "sha256": "517864c39e5b845b266edce2f3bf5b572f89642b4a097329fa72d0174d793f28",
+            "size": 3509109
+          }
+        },
+        {
+          "id": "enb-angel-warm",
+          "name": "Shader ENBSeries 430 Warm",
+          "description": "ENB v0.430 ของ AngelShaw ฉบับโทนอุ่น แสงแดดสีทอง ระยะชัดลึก (DOF) และน้ำแบบเชดเดอร์\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/190251-shader-enbseries-430-warm-angel-shaw-enb-preset",
+          "author": "AngelShaw",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-warm-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-warm-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-warm-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 3910822,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-warm-1.0.0.zip",
+            "sha256": "594cb6207f9ca4e56871e9a857b88ce02f1089833f8cea9356a25211d5d4c295",
+            "size": 2801977
+          }
+        },
+        {
+          "id": "enb-angel-ccm",
+          "name": "Shader CCM Redux ENB 430",
+          "description": "ENB v0.430 ของ AngelShaw ฉบับ CCM Redux สีคมเข้ม แสงแบบ enblighting และ DOF\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/192472-shader-ccm-redux-enbseries-430-angel-shaw-enb-preset",
+          "author": "AngelShaw",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-ccm-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-ccm-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-ccm-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 11676808,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-ccm-1.0.0.zip",
+            "sha256": "d59a7bcf24700e395c0bca5f46529585a7e01d20addccde4a98c00e60f65cedc",
+            "size": 6361736
+          }
+        },
+        {
+          "id": "enb-angel-pink",
+          "name": "Shader ENBSeries 430 Pink",
+          "description": "ENB v0.430 ของ AngelShaw โทนชมพูม่วงยามเย็น ท้องฟ้า ฝน แอ่งน้ำ และเมฆแบบเชดเดอร์\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/201419-shader-enbseries-430-pink-angel-shaw-enb-preset",
+          "author": "AngelShaw",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-pink-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-pink-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-pink-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 11161256,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-pink-1.0.0.zip",
+            "sha256": "fca201d9498b13edf0eaef241c610133b7a7d2d5431ea5a89466d99e4bd4733a",
+            "size": 8460198
+          }
+        },
+        {
+          "id": "enb-real-vision",
+          "name": "Real Vision 1.2",
+          "description": "ENB v0.430 ที่เน้นภาพใกล้ความจริง ไม่อิ่มสีเกินไป ท้องฟ้า เมฆ แสงรถ ฝนและแอ่งน้ำใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: ModMaker22\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186862-real-vision-v1-2",
+          "author": "ModMaker22",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-real-vision-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-real-vision-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-real-vision-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 9673370,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-real-vision-1.0.0.zip",
+            "sha256": "0806e44ad3c026d44c49067ed51627e30e92cb72d81f82d2fcbde0610ebdc988",
+            "size": 5284505
+          }
+        },
+        {
+          "id": "enb-summer248",
+          "name": "Summer Paradise",
+          "description": "ENB v0.248 สีสดแบบหน้าร้อน พร้อม MasterEffect ของ Marty McFly เหมาะกับคอมกลาง-สูง\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: Saiyan Legend\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/80557-summer-paradise-v0-248",
+          "author": "Saiyan Legend",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-summer248-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-summer248-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-summer248-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "effect.txt",
+            "enbanamorphic.bmp",
+            "enbbloom.fx",
+            "enbbloom.fx.ini",
+            "enbeffect.fx",
+            "enbeffect.fx.ini",
+            "enbeffectprepass.fx",
+            "enbeffectprepass.fx.ini",
+            "enblens.fx",
+            "enblensdirt.bmp",
+            "enblocal.ini",
+            "enbpalette.bmp",
+            "enbseries.ini",
+            "enbseries_mastereffect.ini"
+          ],
+          "installSize": 4004346,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-summer248-1.0.0.zip",
+            "sha256": "5a3093bbbd5195737772e1dfcb95aaf4620596da2801293ebbd933c989d2497c",
+            "size": 2804377
+          }
+        },
+        {
+          "id": "enb-shadow248",
+          "name": "ShaDowENB",
+          "description": "ENB v0.248 เบา ๆ เงาไดนามิก แสงสะท้อนรถ และเลนส์ ไม่เปลี่ยนสีเกมมาก\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: ShadowStorm_Real\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/89888-shadowenb-v0-248",
+          "author": "ShadowStorm_Real",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shadow248-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbbloom.fx",
+            "enbeffect.fx",
+            "enbeffectprepass.fx",
+            "enblens.fx",
+            "enblocal.ini",
+            "enbseries.ini"
+          ],
+          "installSize": 777848,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shadow248-1.0.0.zip",
+            "sha256": "034a6b3bb962403506f2a3df8a4dfcb68eb79d91180297a5038094e8833c4894",
+            "size": 718530
+          }
+        },
+        {
+          "id": "enb-dreamer-verylow",
+          "name": "ENB สำหรับคอมสเปกต่ำมาก",
+          "description": "ENB v0.075 ตัวเล็กมาก เพิ่มเฉพาะแสงสะท้อนบนรถ แทบไม่กินสเปก\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: The Dreamer\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/69506-enbseries-for-very-low-pc",
+          "author": "The Dreamer",
+          "category": "graphics",
+          "version": "1.0.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-dreamer-verylow-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-dreamer-verylow-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-dreamer-verylow-3.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "effect.txt",
+            "enbseries.ini"
+          ],
+          "installSize": 296180,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-dreamer-verylow-1.0.0.zip",
+            "sha256": "4f007eee83d06789eb3e3607abc7faacfb88370be3d31f3168884094d7a08e0f",
+            "size": 83037
+          }
+        }
+      ],
       "news": [
         {
           "id": "career-open-2569-11-01",
