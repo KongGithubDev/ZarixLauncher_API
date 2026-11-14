@@ -203,6 +203,37 @@
           "theme": "xmas"
         },
         {
+          "id": "sa-snow-conversion",
+          "name": "เมืองหิมะ (SA Snow Conversion)",
+          "description": "เปลี่ยนทั้งเมืองเป็นฤดูหนาว: พื้น ถนน หลังคา ต้นไม้ และหญ้ามีหิมะปกคลุม (1,074 ไฟล์ textures + หญ้าหิมะ)\nแนะนำให้ใช้คู่กับ ENB Career City Winter (คริสต์มาส) เพื่อโทนสีหนาวเย็น\nแผนที่และวัตถุที่ Career City ทำเองยังเป็นแบบเดิม (ไฟล์ที่ซ้ำกับของเซิร์ฟไม่ได้ใส่) ไม่มีสกิน ไม่เปลี่ยนการเกาะถนน ไม่มีสคริปต์\nไฟล์ใหญ่ (~340 MB) ใช้หน่วยความจำการ์ดจอมากขึ้น ลบออกได้ทุกเมื่อ\nผู้สร้าง: Junior_Djjr (MixMods) | Textures: SPYFAN, AndreiKopishev, Junior_Djjr, Jéssica Natália\nที่มา: https://libertycity.net/files/gta-san-andreas/185649-sa-snow-conversion-2022-update-23.12.22.html",
+          "author": "Junior_Djjr",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~0-10% ใช้ VRAM มากขึ้น",
+          "version": "2022.12.23",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sa-snow-conversion-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sa-snow-conversion-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sa-snow-conversion-3.jpg"
+          ],
+          "lowEndWarning": true,
+          "featured": true,
+          "featuredUntil": "2027-01-05",
+          "badge": "คริสต์มาส",
+          "theme": "xmas",
+          "group": "world-textures",
+          "targets": [
+            "KPLoader/zx-snow/"
+          ],
+          "installSize": 480018152,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sa-snow-conversion-2022.12.23.zip",
+            "sha256": "5145332b83472090cfc411cd9f3eaa6089e0d3de7763c3fe1e68c0034ee18cd2",
+            "size": 338376621
+          }
+        },
+        {
           "id": "career-enb-sunset",
           "name": "ENB Career City Sunset",
           "description": "โทนอุ่นสีส้มทองแบบแดดเย็นทั้งวัน ความสว่างไม่เกินตัวปกติ (กลางคืนไม่สว่างขึ้น หมอกเท่าเดิม)\nภาพตัวอย่างเป็นภาพจำลองโทนสี ภาพจริงในเกมอาจต่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | ค่าตั้ง: Career City",
