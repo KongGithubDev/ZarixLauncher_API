@@ -94,6 +94,8 @@
           "description": "ENB ชุดทางการของ Career City แสง เงา และสีแบบภาพยนตร์ ใช้ enbseries.asi รุ่นที่ระบบกันโกงรองรับเท่านั้น\nถ้าเปิด ENB ในเมนูเกม (ฟันเฟือง) อยู่ ให้ปิดก่อนติดตั้ง",
           "author": "Career City",
           "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~15-25%",
           "version": "2026.11.1",
           "images": [
             "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-open-2611b.jpg",
@@ -139,11 +141,43 @@
           }
         },
         {
+          "id": "career-enb-lite",
+          "name": "ENB Career City Lite",
+          "description": "ENB Career City แบบเบา: ปิด Ambient Occlusion และ EdgeAA สีและน้ำเหมือนตัวปกติ สำหรับคอมสเปกต่ำ\nENB: Boris Vorontsov (enbdev.com) | ค่าตั้ง: Career City",
+          "author": "Career City",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~10-15%",
+          "version": "2026.11.14",
+          "images": [
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-open-2611b.jpg",
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-market-2611.jpg",
+            "https://raw.githubusercontent.com/KongGithubDev/ZarixLauncher_API/main/assets/career/enb-focus-2611.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini"
+          ],
+          "installSize": 970603,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-lite-2026.11.14.zip",
+            "sha256": "ed25303619a0a4762051fe2078beb7ef1abf29013d3040829f496549bdae69f6",
+            "size": 777968
+          }
+        },
+        {
           "id": "enb-shader430",
           "name": "Shader ENBSeries 430",
           "description": "ENB v0.430 ของ AngelShaw โทนสีอบอุ่นแบบภาพยนตร์ เงา น้ำ และแสงสะท้อนรถใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186043-shader-enbseries-430-angel-shaw-enb-preset",
           "author": "AngelShaw",
           "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shader430-1.jpg",
@@ -172,6 +206,8 @@
           "description": "ENB v0.430 ของ AngelShaw ฉบับโทนอุ่น แสงแดดสีทอง ระยะชัดลึก (DOF) และน้ำแบบเชดเดอร์\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/190251-shader-enbseries-430-warm-angel-shaw-enb-preset",
           "author": "AngelShaw",
           "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-warm-1.jpg",
@@ -200,6 +236,8 @@
           "description": "ENB v0.430 ของ AngelShaw ฉบับ CCM Redux สีคมเข้ม แสงแบบ enblighting และ DOF\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/192472-shader-ccm-redux-enbseries-430-angel-shaw-enb-preset",
           "author": "AngelShaw",
           "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-ccm-1.jpg",
@@ -228,6 +266,8 @@
           "description": "ENB v0.430 ของ AngelShaw โทนชมพูม่วงยามเย็น ท้องฟ้า ฝน แอ่งน้ำ และเมฆแบบเชดเดอร์\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/201419-shader-enbseries-430-pink-angel-shaw-enb-preset",
           "author": "AngelShaw",
           "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~30-45%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-angel-pink-1.jpg",
@@ -256,6 +296,8 @@
           "description": "ENB v0.430 ที่เน้นภาพใกล้ความจริง ไม่อิ่มสีเกินไป ท้องฟ้า เมฆ แสงรถ ฝนและแอ่งน้ำใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: ModMaker22\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186862-real-vision-v1-2",
           "author": "ModMaker22",
           "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-real-vision-1.jpg",
@@ -284,6 +326,8 @@
           "description": "ENB v0.248 สีสดแบบหน้าร้อน พร้อม MasterEffect ของ Marty McFly เหมาะกับคอมกลาง-สูง\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: Saiyan Legend\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/80557-summer-paradise-v0-248",
           "author": "Saiyan Legend",
           "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~30-45%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-summer248-1.jpg",
@@ -323,6 +367,8 @@
           "description": "ENB v0.248 เบา ๆ เงาไดนามิก แสงสะท้อนรถ และเลนส์ ไม่เปลี่ยนสีเกมมาก\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: ShadowStorm_Real\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/89888-shadowenb-v0-248",
           "author": "ShadowStorm_Real",
           "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~25-40%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-shadow248-1.jpg"
@@ -352,6 +398,8 @@
           "description": "ENB v0.075 ตัวเล็กมาก เพิ่มเฉพาะแสงสะท้อนบนรถ แทบไม่กินสเปก\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: The Dreamer\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/69506-enbseries-for-very-low-pc",
           "author": "The Dreamer",
           "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
           "version": "1.0.0",
           "images": [
             "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-enb-2611/enb-dreamer-verylow-1.jpg",
@@ -403,21 +451,47 @@
           }
         },
         {
-          "id": "skygfx-link",
+          "id": "skygfx-sa",
           "name": "SkyGFX (กราฟิกแบบ PS2)",
-          "description": "สีและแสงแบบเวอร์ชัน PS2/มือถือ: radiosity, ผิวรถแบบ PS2, เงา และฟิลเตอร์สี (ผู้สร้าง: aap)\nผู้สร้างไม่ได้อนุญาตให้แจกต่อ จึงต้องดาวน์โหลดจากหน้าเว็บของผู้สร้างเอง\nเกมจะเปิดได้เฉพาะ skygfx.asi v4.2b จากหน้านั้นเท่านั้น วางไว้ในโฟลเดอร์เกม ใช้ร่วมกับ ENB ไม่ได้",
+          "description": "สีและแสงแบบเวอร์ชัน PS2: radiosity (แสงฟุ้ง), ท่อเรนเดอร์ตึกและรถแบบ PS2, ฟิลเตอร์สี PS2 และเงาไดนามิก\nตั้งค่าของ Career City: ปิดปุ่มลัด F10/F11 ของ SkyGFX (F11 ของเกมคือเมนูเสียง), ใช้ timecyc ของเซิร์ฟ\nใช้ร่วมกับ ENB ไม่ได้ (ติดตั้งได้ทีละอัน) ปรับค่าได้ที่ไฟล์ skygfx1.ini ในโฟลเดอร์เกม\nผู้สร้าง: aap (The Hero) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง\nที่มา: https://github.com/aap/skygfx",
           "author": "aap",
           "category": "graphics",
           "tier": "low",
           "fpsNote": "FPS ลด ~5-10%",
           "version": "4.2b",
           "images": [
-            "https://i.imgur.com/RXklRRg.png"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "skygfx.asi",
+            "skygfx1.ini"
+          ],
+          "installSize": 310233,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-4.2b.zip",
+            "sha256": "e3c4333360e36cd309129e44e8d41c861a8a2eb553cc4497a9683f713145d1e0",
+            "size": 155718
+          }
+        },
+        {
+          "id": "enb-kakuseries-link",
+          "name": "KakuSeries 0.430",
+          "description": "ENB v0.430 แบบสมจริง ท้องฟ้าไดนามิก cloudworks แสงลำแดด สะท้อนรถ (ผู้ทำบอกว่ากินสเปกสูง)\nผู้ทำไม่อนุญาตให้แจกต่อ จึงต้องดาวน์โหลดจากหน้าเว็บของผู้ทำ ใช้เฉพาะไฟล์ ENB (enbseries.asi, enbseries.ini, enblocal.ini, โฟลเดอร์ enbseries) ไม่ต้องใช้ d3d9.dll, gta_sa.exe, modloader และ SAMPGraphicRestore.asi ในชุด\nENB: Boris Vorontsov | พรีเซ็ต: KakuMods",
+          "author": "KakuMods",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
+          "version": "0.430",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-link-1.jpg"
           ],
           "group": "shader",
           "download": {
             "type": "external",
-            "url": "https://github.com/aap/skygfx/releases/tag/v4.2b"
+            "url": "https://www.gtainside.com/sanandreas/mods/enb-series/223097-enb-kakuseries-0-430"
           }
         }
       ],
