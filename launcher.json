@@ -790,6 +790,182 @@
           }
         },
         {
+          "id": "enb-deluxe",
+          "name": "Deluxe 0.248",
+          "description": "ENB v0.248 สีสดพร้อม bloom, เลนส์, ระยะชัดลึก, น้ำ และสะท้อนแสง\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม FXAA injector, imfast.asi และไฟล์อื่นในแพ็ก)\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.248 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: SaiyanLegend\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/83205-deluxe-0-248-v1",
+          "author": "SaiyanLegend",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~35-50%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "effect.txt",
+            "enbanamorphic.bmp",
+            "enbbloom.fx",
+            "enbbloom.fx.ini",
+            "enbeffect.fx",
+            "enbeffect.fx.ini",
+            "enbeffectprepass.fx",
+            "enbeffectprepass.fx.ini",
+            "enblens.fx",
+            "enblensdirt.bmp",
+            "enblocal.ini",
+            "enbpalette.bmp",
+            "enbseries.ini",
+            "enbseries_mastereffect.ini"
+          ],
+          "installSize": 3996481,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-1.0.zip",
+            "sha256": "e1040d0e6a527e735b010149684624554e223d03300f8a9e80db34cc6dbbf133",
+            "size": 2804391
+          }
+        },
+        {
+          "id": "enb-realhd",
+          "name": "Real HD Graphics",
+          "description": "ENB ปรับจาก SA_DirectX 2.0: น้ำ bump map, ระยะชัดลึก, bloom\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม SweetFX, CLEO, timecyc, textures และ SilentPatch ในแพ็ก) | เครดิต: ZIMMER, Makarus\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.306 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: ZIMMER000\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/123900-real-hd-graphics",
+          "author": "ZIMMER000",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-55%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-realhd-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enblocal.ini",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 12359643,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-realhd-1.0.zip",
+            "sha256": "078e755d28dcd706cf923d520846202dade47f1e59a62d33c1453b2a75755c02",
+            "size": 8641289
+          }
+        },
+        {
+          "id": "enb-griffin-lowend",
+          "name": "Griffin's Low-End ENB v2",
+          "description": "ENB สำหรับคอมระดับกลางถึงสเปกต่ำ (มีส่วนจาก Dizz Nicca)\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม CLEO, imfx และ lensflare ในแพ็ก)\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.248 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: Griffin\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/101548-griffin-s-low-end-enb-v2",
+          "author": "Griffin",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~10-20%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-griffin-lowend-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbeffect.fx",
+            "enblens.fx",
+            "enblocal.ini",
+            "enbseries.ini"
+          ],
+          "installSize": 947961,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-griffin-lowend-1.0.zip",
+            "sha256": "c07d9e4ee9c7437bf4a88d4869ffc3a5fa1144c1c0707ac5becfa596a6808e40",
+            "size": 747179
+          }
+        },
+        {
+          "id": "enb-dsa",
+          "name": "Project ENB DSA+ 1.0",
+          "description": "ENB เบา ๆ สำหรับคอมสเปกต่ำ\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc และ SilentPatch ในแพ็ก)\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.075 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: KRASHER Mods\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/200792-project-enb-dsa-1-0",
+          "author": "KRASHER Mods",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-15%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbseries.ini"
+          ],
+          "installSize": 293270,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-1.0.zip",
+            "sha256": "e25963ebd2b36b9de756018466e18061fc2fe2fea2bf5dc89232703dd3121597",
+            "size": 82266
+          }
+        },
+        {
+          "id": "enb-lowpc",
+          "name": "Low PC ENB",
+          "description": "ENB เบามากสำหรับคอมสเปกต่ำ\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม colormod.asi ในแพ็ก)\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.075 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: ZesMAXIM\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/200976-low-pc-enb",
+          "author": "ZesMAXIM",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbpalette.bmp",
+            "enbseries.ini"
+          ],
+          "installSize": 489929,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-1.0.zip",
+            "sha256": "df3f7d77123a919e30c431ad5a610d2c4c9c93a1a1b209b9c848ad84d0a0233d",
+            "size": 149610
+          }
+        },
+        {
+          "id": "enb-gtav-lowend",
+          "name": "ENB โทน GTA V (สเปกต่ำ)",
+          "description": "ENB โทนสีคล้าย GTA V สำหรับคอมสเปกต่ำมาก (ผู้ทำทดสอบบน AMD E2)\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม colormod, SkyGFX, timecyc และ DLL อื่นในแพ็ก)\nใช้ ENB ตัวทางการแทนไฟล์ในแพ็กเดิม (ENBSeries v0.075 จาก enbdev.com)\nENB: Boris Vorontsov | พรีเซ็ต: Gilang\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/200017-enb-gta-v-to-sa-low-end-pc",
+          "author": "Gilang",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbpalette.bmp",
+            "enbseries.ini"
+          ],
+          "installSize": 489946,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-1.0.zip",
+            "sha256": "d63d8aa632862a7c72737fc6a70885c7ef6a4e134f100b2a3813ec328bf0b46e",
+            "size": 87225
+          }
+        },
+        {
           "id": "p2dfx-sa",
           "name": "Project2DFX ไฟเมืองระยะไกล",
           "description": "เสาไฟและไฟถนนทั้งเมืองเรืองแสงให้เห็นจากไกล ๆ ตอนกลางคืน พร้อมแสงลำไฟและเงาใต้เสาไฟที่ไกลขึ้น\nตั้งค่าของ Career City: ระยะมองเห็น/หมอกเท่าเกมเดิม (ไม่ได้เปรียบใคร), ปิดรถจำลองระยะไกล (บน SA-MP จะเป็นรถปลอม), ไม่รวม Limit Adjuster\nใช้ร่วมกับ ENB ได้ ปรับค่าได้ที่ไฟล์ SALodLights.cfg ในโฟลเดอร์เกม\nผู้สร้าง: ThirteenAG และผู้ร่วมพัฒนา (สัญญาอนุญาต GPL-3.0)\nซอร์สโค้ด: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX",
