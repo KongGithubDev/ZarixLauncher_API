@@ -171,6 +171,122 @@
           }
         },
         {
+          "id": "career-enb-winter",
+          "name": "ENB Career City Winter (คริสต์มาส)",
+          "description": "โทนหนาวเย็นสีฟ้า-ขาวสำหรับเทศกาลคริสต์มาส สีลดความอิ่มลงเล็กน้อย ความสว่างไม่เกินตัวปกติ (กลางคืนไม่สว่างขึ้น หมอกเท่าเดิม)\nภาพตัวอย่างเป็นภาพจำลองโทนสี ภาพจริงในเกมอาจต่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | ค่าตั้ง: Career City",
+          "author": "Career City",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~15-25%",
+          "version": "2026.11.14",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-winter-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini"
+          ],
+          "installSize": 966754,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-winter-2026.11.14.zip",
+            "sha256": "a921f6012681d34d4cd3c3f6cfa99ce6ea361d39789e12bb9c5491b310c07551",
+            "size": 777333
+          },
+          "featured": true,
+          "featuredUntil": "2026-12-27",
+          "badge": "คริสต์มาส",
+          "theme": "xmas"
+        },
+        {
+          "id": "career-enb-sunset",
+          "name": "ENB Career City Sunset",
+          "description": "โทนอุ่นสีส้มทองแบบแดดเย็นทั้งวัน ความสว่างไม่เกินตัวปกติ (กลางคืนไม่สว่างขึ้น หมอกเท่าเดิม)\nภาพตัวอย่างเป็นภาพจำลองโทนสี ภาพจริงในเกมอาจต่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | ค่าตั้ง: Career City",
+          "author": "Career City",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~15-25%",
+          "version": "2026.11.14",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-sunset-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini"
+          ],
+          "installSize": 966754,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-sunset-2026.11.14.zip",
+            "sha256": "4fd63c7205cbd5940a3da6c4dcc23f24fc28a62ef8fc4e2e9cd5d25f883f283c",
+            "size": 777336
+          }
+        },
+        {
+          "id": "career-enb-ultralite",
+          "name": "ENB Career City Ultra Lite",
+          "description": "สีของ ENB Career City แบบเบาที่สุด: ปิดน้ำ ENB, Ambient Occlusion, ระยะชัดลึก และ EdgeAA สำหรับคอมสเปกต่ำมาก\nENB: Boris Vorontsov (enbdev.com) | ค่าตั้ง: Career City",
+          "author": "Career City",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "2026.11.14",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-ultralite-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini"
+          ],
+          "installSize": 966753,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-ultralite-2026.11.14.zip",
+            "sha256": "e5c010f4ad2bde6b087f8d79996c9f819430a25e938140908f6b73fdf36daa0b",
+            "size": 777327
+          }
+        },
+        {
+          "id": "career-enb-cloudworks",
+          "name": "ENB Career City + CloudWorks (เมฆ)",
+          "description": "ENB Career City พร้อมเมฆสามมิติและท้องฟ้าของ CloudWorks 3.6.6 (กินการ์ดจอมาก ผู้สร้างแนะนำ GTX 1660 Super ขึ้นไปที่ 1080p)\nภาพตัวอย่างเป็นภาพ ENB Career City ภาพจริงจะมีเมฆเพิ่ม\nCloudWorks: Brian Tu (keroroxzz) สัญญาอนุญาต CC BY-NC-SA 3.0 (ไฟล์สัญญาอยู่ใน enbseries/) | ENB: Boris Vorontsov | ค่าตั้ง: Career City\nที่มา: https://github.com/keroroxzz/CloudWorks",
+          "author": "Brian Tu (keroroxzz), Career City",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
+          "version": "2026.11.14",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-cloudworks-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 1164715,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/career-enb-cloudworks-2026.11.14.zip",
+            "sha256": "3e646a91e4f4a0b4ee467ae23ed7a975fb1a1aeed950433e4d5024440848ba68",
+            "size": 934887
+          }
+        },
+        {
           "id": "enb-shader430",
           "name": "Shader ENBSeries 430",
           "description": "ENB v0.430 ของ AngelShaw โทนสีอบอุ่นแบบภาพยนตร์ เงา น้ำ และแสงสะท้อนรถใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186043-shader-enbseries-430-angel-shaw-enb-preset",
@@ -617,21 +733,110 @@
           }
         },
         {
-          "id": "enb-kakuseries-link",
+          "id": "skygfx-sa-pc",
+          "name": "SkyGFX (โทน PC)",
+          "description": "แสงและท่อเรนเดอร์แบบเวอร์ชัน PC ที่แก้บั๊กแล้ว สีใกล้เกมเดิมที่สุด เงาไดนามิก ไม่มี radiosity (แสงฟุ้ง)\nตั้งค่าของ Career City: ปิดปุ่มลัด F10/F11 ของ SkyGFX (F11 ของเกมคือเมนูเสียง), ใช้ timecyc ของเซิร์ฟ\nใช้ร่วมกับ ENB หรือ SkyGFX แบบอื่นไม่ได้ (ติดตั้งได้ทีละอัน) ปรับค่าได้ที่ skygfx1.ini\nผู้สร้าง: aap (The Hero) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง\nที่มา: https://github.com/aap/skygfx",
+          "author": "aap",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "4.2b",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-pc-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "skygfx.asi",
+            "skygfx1.ini"
+          ],
+          "installSize": 310223,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-pc-4.2b.zip",
+            "sha256": "8e0171c800ad8dfe382702a80457e8884ec0ac0645a1bebdebfbcefe9328d5df",
+            "size": 155729
+          }
+        },
+        {
+          "id": "skygfx-sa-xbox",
+          "name": "SkyGFX (โทน Xbox)",
+          "description": "ตึกและรถแบบเวอร์ชัน Xbox (สะท้อนแสงมากขึ้น) กับฟิลเตอร์สีและ radiosity แบบ PS2\nตั้งค่าของ Career City: ปิดปุ่มลัด F10/F11 ของ SkyGFX (F11 ของเกมคือเมนูเสียง), ใช้ timecyc ของเซิร์ฟ\nใช้ร่วมกับ ENB หรือ SkyGFX แบบอื่นไม่ได้ (ติดตั้งได้ทีละอัน) ปรับค่าได้ที่ skygfx1.ini\nผู้สร้าง: aap (The Hero) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง\nที่มา: https://github.com/aap/skygfx",
+          "author": "aap",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "4.2b",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-xbox-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "skygfx.asi",
+            "skygfx1.ini"
+          ],
+          "installSize": 310235,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-xbox-4.2b.zip",
+            "sha256": "0239e4b820ca3b7b4063ca6f3e9a8b0b35058a1640b5e45b37a7269468f94448",
+            "size": 155721
+          }
+        },
+        {
+          "id": "skygfx-sa-mobile",
+          "name": "SkyGFX (โทนมือถือ)",
+          "description": "ฟิลเตอร์สีแบบเวอร์ชันมือถือ (colorcycle ของมือถือ) และสะท้อนรถแบบมือถือ\nตั้งค่าของ Career City: ปิดปุ่มลัด F10/F11 ของ SkyGFX (F11 ของเกมคือเมนูเสียง), ใช้ timecyc ของเซิร์ฟ\nใช้ร่วมกับ ENB หรือ SkyGFX แบบอื่นไม่ได้ (ติดตั้งได้ทีละอัน) ปรับค่าได้ที่ skygfx1.ini\nผู้สร้าง: aap (The Hero) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง\nที่มา: https://github.com/aap/skygfx",
+          "author": "aap",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "4.2b",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-mobile-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "data/colorcycle.dat",
+            "skygfx.asi",
+            "skygfx1.ini"
+          ],
+          "installSize": 323846,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-mobile-4.2b.zip",
+            "sha256": "2227fc95db3ef32b224d53d57c3b9f78a3e79dab6d68d88ef4b3656cf6457f02",
+            "size": 157557
+          }
+        },
+        {
+          "id": "enb-kakuseries",
           "name": "KakuSeries 0.430",
-          "description": "ENB v0.430 แบบสมจริง ท้องฟ้าไดนามิก cloudworks แสงลำแดด สะท้อนรถ (ผู้ทำบอกว่ากินสเปกสูง)\nผู้ทำไม่อนุญาตให้แจกต่อ จึงต้องดาวน์โหลดจากหน้าเว็บของผู้ทำ ใช้เฉพาะไฟล์ ENB (enbseries.asi, enbseries.ini, enblocal.ini, โฟลเดอร์ enbseries) ไม่ต้องใช้ d3d9.dll, gta_sa.exe, modloader และ SAMPGraphicRestore.asi ในชุด\nENB: Boris Vorontsov | พรีเซ็ต: KakuMods",
+          "description": "ENB v0.430 แบบสมจริง ท้องฟ้าไดนามิก cloudworks แสงลำแดด สะท้อนรถ (ผู้ทำบอกว่ากินสเปกสูง)\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม d3d9.dll, gta_sa.exe, modloader, SAMPGraphicRestore.asi, enbhelper.dll)\nENB: Boris Vorontsov | พรีเซ็ต: KakuMods (แจกต่อโดยได้รับอนุญาตจากผู้ทำ)\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/223097-enb-kakuseries-0-430",
           "author": "KakuMods",
           "category": "graphics",
           "tier": "high",
           "fpsNote": "FPS ลด ~40-60%",
           "version": "0.430",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-link-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-1.jpg"
           ],
+          "lowEndWarning": true,
           "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 15994862,
           "download": {
-            "type": "external",
-            "url": "https://www.gtainside.com/sanandreas/mods/enb-series/223097-enb-kakuseries-0-430"
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-0.430.zip",
+            "sha256": "6c0439caafaa675a29b57a20729236a80348a1affbf5a970123e576d8a13abc4",
+            "size": 8684385
           }
         }
       ],
