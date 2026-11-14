@@ -422,6 +422,146 @@
           }
         },
         {
+          "id": "enb-visionx",
+          "name": "VisionX 1.0",
+          "description": "ENB v0.430 สีสด สมจริง สว่างพอดี (ผู้ทำบอกว่าสำหรับคอมระดับกลางถึงสูง) มี AO, ระยะชัดลึก, เงา, เลนส์\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc และ enbhelper.dll)\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: cadmaster\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/197126-enbseries-visionx-1-0",
+          "author": "cadmaster",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-visionx-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 9159245,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-visionx-1.0.zip",
+            "sha256": "b246e2358a26dd2e5295b43b323e4e0603cd24871546d832c9b2c2647c64aa65",
+            "size": 6999362
+          }
+        },
+        {
+          "id": "enb-ethmods",
+          "name": "Ethmods Graphics Preset",
+          "description": "ENB v0.430 แสงบรรยากาศสมจริง bloom และน้ำใหม่ รองรับ SA-MP (ตามผู้ทำ)\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, enbhelper.dll และไฟล์เสริมอื่น)\nENB: Boris Vorontsov | พรีเซ็ต: Ethmods | เครดิตในชุด: XMakarusX, Junior_Djjr, Brian Tu (keroroxzz)\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/153609-ethmods-graphics-preset",
+          "author": "Ethmods",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~40-60%",
+          "version": "1.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enblocal.ini",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 5606750,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-1.0.zip",
+            "sha256": "4a3808e3e22cd8cd1f7577dbe07430aa1de4fe2ac31724a1b255f8f1c34c04dc",
+            "size": 4332613
+          }
+        },
+        {
+          "id": "enb-nicenatural",
+          "name": "NiceNatural ENB 3.0 (Natural)",
+          "description": "ENB v0.430 คงสีของเกมเดิม เพิ่มเงาและแสงลำแดด\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม enb.exe, umpdc.dll, enbhelper.dll)\nENB: Boris Vorontsov | พรีเซ็ต: xMiguelGTAx\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/176461-nicenatural-enb-v3-0",
+          "author": "xMiguelGTAx",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~25-40%",
+          "version": "3.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 10802821,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-3.0.zip",
+            "sha256": "c1e7e7cb76ffe918ccdfb6758277548b6dbe37f46650883e6ddb7f092ee11aeb",
+            "size": 8474828
+          }
+        },
+        {
+          "id": "enb-nicenatural-color",
+          "name": "NiceNatural ENB 3.0 (Color)",
+          "description": "ENB v0.430 เวอร์ชันสีเข้มขึ้นของ NiceNatural เงาและแสงลำแดดเหมือนกัน\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม enb.exe, umpdc.dll, enbhelper.dll)\nENB: Boris Vorontsov | พรีเซ็ต: xMiguelGTAx\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/176461-nicenatural-enb-v3-0",
+          "author": "xMiguelGTAx",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~25-40%",
+          "version": "3.0",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 10802822,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-3.0.zip",
+            "sha256": "59ae99aad8b55af660ab21be7ced97660517cf22633153af7a9f94cf3484d3b8",
+            "size": 8474830
+          }
+        },
+        {
+          "id": "enb-freezin",
+          "name": "FreezIn's ENB 3.1",
+          "description": "ENB v0.306 ชุดเบา ๆ เน้นเล่นลื่น ใช้บน SA-MP ได้ (ตามผู้ทำ)\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, particle.txd และ gta_sa.exe ในต้นฉบับ)\nENB: Boris Vorontsov | พรีเซ็ต: FreezIn | เครดิต: Marty McFly\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/115854-freezin-s-enb-v3-1",
+          "author": "FreezIn",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~20-35%",
+          "version": "3.1",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "d3d9.dll",
+            "enbeffect.fx",
+            "enblocal.ini",
+            "enbseries.ini"
+          ],
+          "installSize": 932574,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-3.1.zip",
+            "sha256": "9b8afd06fec3f5f2241ed9a3d4ca082a33bd59478dcb91b2177dae0e75b5be55",
+            "size": 743002
+          }
+        },
+        {
           "id": "p2dfx-sa",
           "name": "Project2DFX ไฟเมืองระยะไกล",
           "description": "เสาไฟและไฟถนนทั้งเมืองเรืองแสงให้เห็นจากไกล ๆ ตอนกลางคืน พร้อมแสงลำไฟและเงาใต้เสาไฟที่ไกลขึ้น\nตั้งค่าของ Career City: ระยะมองเห็น/หมอกเท่าเกมเดิม (ไม่ได้เปรียบใคร), ปิดรถจำลองระยะไกล (บน SA-MP จะเป็นรถปลอม), ไม่รวม Limit Adjuster\nใช้ร่วมกับ ENB ได้ ปรับค่าได้ที่ไฟล์ SALodLights.cfg ในโฟลเดอร์เกม\nผู้สร้าง: ThirteenAG และผู้ร่วมพัฒนา (สัญญาอนุญาต GPL-3.0)\nซอร์สโค้ด: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX",
