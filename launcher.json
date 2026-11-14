@@ -372,6 +372,53 @@
             "sha256": "4f007eee83d06789eb3e3607abc7faacfb88370be3d31f3168884094d7a08e0f",
             "size": 83037
           }
+        },
+        {
+          "id": "p2dfx-sa",
+          "name": "Project2DFX ไฟเมืองระยะไกล",
+          "description": "เสาไฟและไฟถนนทั้งเมืองเรืองแสงให้เห็นจากไกล ๆ ตอนกลางคืน พร้อมแสงลำไฟและเงาใต้เสาไฟที่ไกลขึ้น\nตั้งค่าของ Career City: ระยะมองเห็น/หมอกเท่าเกมเดิม (ไม่ได้เปรียบใคร), ปิดรถจำลองระยะไกล (บน SA-MP จะเป็นรถปลอม), ไม่รวม Limit Adjuster\nใช้ร่วมกับ ENB ได้ ปรับค่าได้ที่ไฟล์ SALodLights.cfg ในโฟลเดอร์เกม\nผู้สร้าง: ThirteenAG และผู้ร่วมพัฒนา (สัญญาอนุญาต GPL-3.0)\nซอร์สโค้ด: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX",
+          "author": "ThirteenAG",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~3-8%",
+          "version": "2026.11.14",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/p2dfx-sa-1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/p2dfx-sa-2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/p2dfx-sa-3.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "lodlights",
+          "targets": [
+            "SALodLights.asi",
+            "SALodLights.dat",
+            "SALodLights.cfg"
+          ],
+          "installSize": 4332336,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/p2dfx-sa-2026.11.14.zip",
+            "sha256": "c6f74939fb9e2a2747bd5215dfce1cc0fa009d237b782f826497bbb43c0a268f",
+            "size": 3517259
+          }
+        },
+        {
+          "id": "skygfx-link",
+          "name": "SkyGFX (กราฟิกแบบ PS2)",
+          "description": "สีและแสงแบบเวอร์ชัน PS2/มือถือ: radiosity, ผิวรถแบบ PS2, เงา และฟิลเตอร์สี (ผู้สร้าง: aap)\nผู้สร้างไม่ได้อนุญาตให้แจกต่อ จึงต้องดาวน์โหลดจากหน้าเว็บของผู้สร้างเอง\nเกมจะเปิดได้เฉพาะ skygfx.asi v4.2b จากหน้านั้นเท่านั้น วางไว้ในโฟลเดอร์เกม ใช้ร่วมกับ ENB ไม่ได้",
+          "author": "aap",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~5-10%",
+          "version": "4.2b",
+          "images": [
+            "https://i.imgur.com/RXklRRg.png"
+          ],
+          "group": "shader",
+          "download": {
+            "type": "external",
+            "url": "https://github.com/aap/skygfx/releases/tag/v4.2b"
+          }
         }
       ],
       "news": [
