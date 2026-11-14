@@ -327,7 +327,9 @@
           "fpsNote": "FPS ลด ~50-70%",
           "version": "3.0 beta",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -355,7 +357,10 @@
           "fpsNote": "FPS ลด ~55-75%",
           "version": "3.0 beta",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-p3.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-p4.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -383,7 +388,9 @@
           "fpsNote": "FPS ลด ~30-45%",
           "version": "3.0 beta",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -411,7 +418,9 @@
           "fpsNote": "FPS ลด ~10-20%",
           "version": "3.0 beta",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-p3.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -718,7 +727,9 @@
           "fpsNote": "FPS ลด ~40-60%",
           "version": "1.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-ethmods-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -746,7 +757,9 @@
           "fpsNote": "FPS ลด ~25-40%",
           "version": "3.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -774,7 +787,9 @@
           "fpsNote": "FPS ลด ~25-40%",
           "version": "3.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-nicenatural-color-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -802,7 +817,9 @@
           "fpsNote": "FPS ลด ~20-35%",
           "version": "3.1",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-freezin-p3.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -830,7 +847,9 @@
           "fpsNote": "FPS ลด ~35-50%",
           "version": "1.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-deluxe-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
@@ -926,7 +945,9 @@
           "fpsNote": "FPS ลด ~5-15%",
           "version": "1.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-dsa-p3.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -952,7 +973,9 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "1.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-lowpc-p3.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -979,7 +1002,9 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "1.0",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-gtav-lowend-p3.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -1035,7 +1060,8 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "4.2b",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-p2.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -1061,7 +1087,8 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "4.2b",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-pc-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-pc-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-pc-p2.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -1087,7 +1114,8 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "4.2b",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-xbox-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-xbox-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-xbox-p2.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -1113,7 +1141,8 @@
           "fpsNote": "FPS ลด ~5-10%",
           "version": "4.2b",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-mobile-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-mobile-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/skygfx-sa-mobile-p2.jpg"
           ],
           "lowEndWarning": false,
           "group": "shader",
@@ -1140,7 +1169,9 @@
           "fpsNote": "FPS ลด ~40-60%",
           "version": "0.430",
           "images": [
-            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-1.jpg"
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-p1.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-p2.jpg",
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/enb-kakuseries-p3.jpg"
           ],
           "lowEndWarning": true,
           "group": "shader",
