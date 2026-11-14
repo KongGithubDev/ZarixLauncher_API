@@ -287,6 +287,118 @@
           }
         },
         {
+          "id": "sadx3-ultra",
+          "name": "SA_DirectX 3.0 (Ultra)",
+          "description": "คุณภาพสูงสุด: เงาซับซ้อน, น้ำ, ใต้น้ำ, bloom, motion blur, เมฆสามมิติ\nเวอร์ชัน beta สำหรับ SA-MP ชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, particle.txd, CLEO, modloader, SilentPatch, widescreen fix และ enbhelper.dll) โทนสีจึงอาจต่างจากต้นฉบับเล็กน้อย\nผู้สร้าง: Makarus (patreon.com/sadx3) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง | ENB: Boris Vorontsov",
+          "author": "Makarus",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~50-70%",
+          "version": "3.0 beta",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 8980770,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-ultra-3.0b.zip",
+            "sha256": "e39c36a86da54abba3f9e0ec872e00dd93c1993b88a5485a6835bbcd617ae348",
+            "size": 7006625
+          }
+        },
+        {
+          "id": "sadx3-cloudworks",
+          "name": "SA_DirectX 3.0 + CloudWorks (เมฆ)",
+          "description": "SA_DirectX 3.0 ระดับ Very High พร้อมเมฆ CloudWorks (ดัดแปลงโดย Inari Lú)\nเวอร์ชัน beta สำหรับ SA-MP ชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, particle.txd, CLEO, modloader, SilentPatch, widescreen fix และ enbhelper.dll) โทนสีจึงอาจต่างจากต้นฉบับเล็กน้อย\nผู้สร้าง: Makarus (patreon.com/sadx3) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง | ENB: Boris Vorontsov\nCloudWorks: Brian Tu (keroroxzz) CC BY-NC-SA 3.0 | ดัดแปลงสำหรับ SA_DirectX 3.0: Inari Lú",
+          "author": "Makarus",
+          "category": "graphics",
+          "tier": "high",
+          "fpsNote": "FPS ลด ~55-75%",
+          "version": "3.0 beta",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 9140179,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-cloudworks-3.0b.zip",
+            "sha256": "67fdb50a6ecdd3ce710f52f7929e54ec6fcdf01268082528e2b567de46d969f8",
+            "size": 7150834
+          }
+        },
+        {
+          "id": "sadx3-medium",
+          "name": "SA_DirectX 3.0 (Medium)",
+          "description": "ระดับกลางของ SA_DirectX 3.0\nเวอร์ชัน beta สำหรับ SA-MP ชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, particle.txd, CLEO, modloader, SilentPatch, widescreen fix และ enbhelper.dll) โทนสีจึงอาจต่างจากต้นฉบับเล็กน้อย\nผู้สร้าง: Makarus (patreon.com/sadx3) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง | ENB: Boris Vorontsov",
+          "author": "Makarus",
+          "category": "graphics",
+          "tier": "medium",
+          "fpsNote": "FPS ลด ~30-45%",
+          "version": "3.0 beta",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-1.jpg"
+          ],
+          "lowEndWarning": true,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 8980834,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-medium-3.0b.zip",
+            "sha256": "55bb6460382e17e91794aab5cbedbba718128503dc14c77e41f20e0144ec27d6",
+            "size": 7006662
+          }
+        },
+        {
+          "id": "sadx3-verylow",
+          "name": "SA_DirectX 3.0 (Very Low)",
+          "description": "ระดับเบาที่สุดของ SA_DirectX 3.0: ปิดเงา น้ำ prepass bloom และ motion blur\nเวอร์ชัน beta สำหรับ SA-MP ชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม timecyc, particle.txd, CLEO, modloader, SilentPatch, widescreen fix และ enbhelper.dll) โทนสีจึงอาจต่างจากต้นฉบับเล็กน้อย\nผู้สร้าง: Makarus (patreon.com/sadx3) แจกต่อโดยได้รับอนุญาตจากผู้สร้าง | ENB: Boris Vorontsov",
+          "author": "Makarus",
+          "category": "graphics",
+          "tier": "low",
+          "fpsNote": "FPS ลด ~10-20%",
+          "version": "3.0 beta",
+          "images": [
+            "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-1.jpg"
+          ],
+          "lowEndWarning": false,
+          "group": "shader",
+          "targets": [
+            "enblocal.ini",
+            "enbseries.asi",
+            "enbseries.ini",
+            "enbseries/"
+          ],
+          "installSize": 8980292,
+          "download": {
+            "type": "zip",
+            "url": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/addons-gfx-2611/sadx3-verylow-3.0b.zip",
+            "sha256": "de45b862e523e5ffbdcb041af1abcc841eacd2863841cf3dd93c68920256396a",
+            "size": 7006686
+          }
+        },
+        {
           "id": "enb-shader430",
           "name": "Shader ENBSeries 430",
           "description": "ENB v0.430 ของ AngelShaw โทนสีอบอุ่นแบบภาพยนตร์ เงา น้ำ และแสงสะท้อนรถใหม่\nชุดนี้มีเฉพาะไฟล์ ENB (ไม่รวม skybox, timecyc, สคริปต์ และม็อดอื่นในต้นฉบับ) ภาพจริงอาจต่างจากภาพตัวอย่างเล็กน้อย\nENB: Boris Vorontsov (enbdev.com) | พรีเซ็ต: AngelShaw\nที่มา: https://www.gtainside.com/sanandreas/mods/enb-series/186043-shader-enbseries-430-angel-shaw-enb-preset",
