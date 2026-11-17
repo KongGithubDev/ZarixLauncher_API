@@ -84,9 +84,9 @@
       "mobileManifestId": "4bd00b863712aa280b596f846120260c59f17c47d43dee17190e313b89e2f684",
       "mobileManifestSha256": "ee25e5d05acef1fa864a33f8aea54e48d90a7a29537bc6f923e642c9d19c812b",
       "mobileInstallSize": 641962183,
-      "mobileApkVersion": 369,
-      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-369/CareerCity.apk",
-      "mobileApkSha256": "059ba008346f14427d5f3dd62532c3e9c3530c720d56df55ba9a6743f4684c13",
+      "mobileApkVersion": 370,
+      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-370/CareerCity.apk",
+      "mobileApkSha256": "9e2429cb982a3b9d11b5bef836632aa426e8b5599d901798077485aaff021a8b",
       "addons": [
         {
           "id": "career-enb",
@@ -1246,7 +1246,7 @@
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611170506,
-      "mobileSig": "kps1:cc1:RKdMHWTx5BSVpIm4hMkbrgOw54dhwx2jVNxALi9AFaKNHy+Aa1YqKV2fawQ1R0S/TQcQ1DIr7y3LGapQFKi/Cg=="
+      "mobileSig": "kps1:cc1:NUJrisVYLAarE0r0ECt+pUGGzNbpPpjQ12tmGUBQ1L9ejIVxln2Q9o+2KES80YT6L1vF6/9MOvvstbJLjExxBA=="
     }
   ]
 }
