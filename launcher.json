@@ -1246,7 +1246,8 @@
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611222238,
-      "mobileSig": "kps1:cc1:Cuh4A+4SJwS0GtSySAsJiCLGQGqZOeGcqN0fN288AOefLY0UmOg3gyUYFLnWS8bqe21Bo+0EOVgOEYDJgH+XBQ=="
+      "mobileSig": "kps1:cc1:Cuh4A+4SJwS0GtSySAsJiCLGQGqZOeGcqN0fN288AOefLY0UmOg3gyUYFLnWS8bqe21Bo+0EOVgOEYDJgH+XBQ==",
+      "joinTicketUrl": "https://api-mobile.gta-career.com/launcher/ticket"
     }
   ]
 }
