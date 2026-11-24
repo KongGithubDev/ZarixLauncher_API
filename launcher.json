@@ -1240,13 +1240,13 @@
       ],
       "mobileIpaUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fios.gta-career.com%2Fmanifest%2Flatest.plist",
       "mobileIpaPage": "https://ios.gta-career.com/",
-      "mobileIpaVersion": 2611230600,
+      "mobileIpaVersion": 2611232130,
       "uiManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/kpui-career-c8b40c7a/manifest.json",
       "uiManifestSha256": "d36ed1ca9f61f30a6d717bb9997150a05b3f33f3c864287b82601c622c3fa334",
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611230602,
-      "mobileSig": "kps1:cc1:nMvmkR/FQqlpxP3nw+5a9zd6xeyZ2bp3GwOwWR8qeKcYM8HkDP6xskPuMq7DgnbDcphgugEP7RghUlxLogH5Cw==",
+      "mobileSig": "kps1:cc1:GvSvOMG9teVWfGMUIdlUWBMaNMjhgY4ceAfLrqc7pqrvPW1RxORspeKKl6jALDn2TUn/kp+nc7KIXcrYD4AvBA==",
       "joinTicketUrl": "https://api-mobile.gta-career.com/launcher/ticket"
     }
   ]
