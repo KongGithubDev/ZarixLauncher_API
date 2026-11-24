@@ -80,10 +80,10 @@
       "manifestId": "61fce1863c00ce3fc85eddb3f1e9e34e73948098b6d2eed114f34566456e301f",
       "manifestSha256": "bed08bc45fe0430bd4480171046ddc73467be807157c16a0b50f3bd8c80f5c6e",
       "installSize": 1677609436,
-      "mobileManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-mobile-Career-City-20261121T191343Z/manifest.json",
-      "mobileManifestId": "d26bd6dc23eb9471556d49a56de4025f62d8f9ed92c93c98a0d7bba44b231b22",
-      "mobileManifestSha256": "af367118da7d103ae8ecb4e737b907ca6afdcfb0d6ce0f741a769dea66a8fa41",
-      "mobileInstallSize": 593610512,
+      "mobileManifestUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/depot-mobile-Career-City-20261124T133856Z/manifest.json",
+      "mobileManifestId": "4a8708b806eb1494338219313be41c3abd59a6c2dea6cbc860f51ec2e3ca3b83",
+      "mobileManifestSha256": "957ea8b158580e6de803b45bf98fc377fed2cf696e09757927a1353c442f9466",
+      "mobileInstallSize": 595515923,
       "mobileApkVersion": 422,
       "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-422/CareerCity.apk",
       "mobileApkSha256": "eea5f1566311614a04e7d19a51f5d54bc95b6ae68a40962943d29877f35aac8c",
@@ -1246,7 +1246,7 @@
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611230602,
-      "mobileSig": "kps1:cc1:+Lbutl/Ls8N6yV8T3pC5KbtRsIChvFfmRkl5wDfwRf/c3kR0hyBctanHEuuLjWEjEjPsAta6v+Q2y1CsqvXOBg==",
+      "mobileSig": "kps1:cc1:1ehEGAxRN+iJJwin2ekyeqSsaT4ExQ6MxLc1GDoJ0aotl90QXLrpdiS3nk7hUsCgR04inZQjx0BGJYdZR/PyBA==",
       "joinTicketUrl": "https://api-mobile.gta-career.com/launcher/ticket"
     }
   ]
