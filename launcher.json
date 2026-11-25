@@ -84,9 +84,9 @@
       "mobileManifestId": "4a8708b806eb1494338219313be41c3abd59a6c2dea6cbc860f51ec2e3ca3b83",
       "mobileManifestSha256": "957ea8b158580e6de803b45bf98fc377fed2cf696e09757927a1353c442f9466",
       "mobileInstallSize": 595515923,
-      "mobileApkVersion": 425,
-      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-425/CareerCity.apk",
-      "mobileApkSha256": "3d34e2fd98775732017565c41406b098c782deb8da8e415b1cfd8985e041dc3e",
+      "mobileApkVersion": 426,
+      "mobileApkUrl": "https://github.com/KongGithubDev/ZarixLauncher_API/releases/download/apk-career-426/CareerCity.apk",
+      "mobileApkSha256": "a6d4c9754aec6bff94025f0231d6a9cf265c6c1dde9fa34929e90ef6e9aed563",
       "addons": [
         {
           "id": "career-enb",
@@ -1246,7 +1246,7 @@
       "uiSet": "c8b40c7a",
       "version": "2026.11.07.2",
       "mobileIpaTestflightVersion": 2611242043,
-      "mobileSig": "kps1:cc1:LFEp8nT3OdHfzjoUylO9zdt9U5N5U9Md1LaP3i5z/WfBXxuZcgRKGyg4eFMRl0L3pVEJzrOW2+LnkNoPLEW5Bg==",
+      "mobileSig": "kps1:cc1:/ITxpQUxrfB7cu3HAxUsgtS9aciOzYE32KVtJ9/6oXvMKfyHwH+I2nnue/QhxdxASAO8dMN1+vj3U/I2Mj2VDQ==",
       "joinTicketUrl": "https://api-mobile.gta-career.com/launcher/ticket"
     }
   ]
